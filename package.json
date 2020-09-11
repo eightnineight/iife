@@ -1,6 +1,6 @@
 {
   "name": "@eightnineight/iife",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "javascript IIFE wrapper",
   "main": "iife.js",
   "scripts": {
