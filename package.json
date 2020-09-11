@@ -1,5 +1,5 @@
 {
-  "name": "@ene/iife",
+  "name": "@eightnineight/iife",
   "version": "1.0.0",
   "description": "javascript IIFE wrapper",
   "main": "iife.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eightnineight/demo.git"
+    "url": "git+https://github.com/eightnineight/ene-iife.git"
   },
   "author": "eightnineight",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eightnineight/demo/issues"
+    "url": "https://github.com/eightnineight/ene-iife/issues"
   },
-  "homepage": "https://github.com/eightnineight/demo#readme"
+  "homepage": "https://github.com/eightnineight/ene-iife#readme"
 }
