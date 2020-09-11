@@ -3,3 +3,5 @@ const IIFE = (func, ...args) => {
 }
 
 const iife = IIFE;
+
+module.exports = { iife, IIFE };
