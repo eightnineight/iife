@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eightnineight/ene-iife.git"
+    "url": "git+https://github.com/eightnineight/iife.git"
   },
   "author": "eightnineight",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eightnineight/ene-iife/issues"
+    "url": "https://github.com/eightnineight/iife/issues"
   },
-  "homepage": "https://github.com/eightnineight/ene-iife#readme"
+  "homepage": "https://github.com/eightnineight/iife#readme"
 }
